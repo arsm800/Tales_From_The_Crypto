@@ -2,9 +2,7 @@
 
 ## Sentiment Analysis
 
-![Bitcoin_Sentiment](Images/bitcoin_sentiment.png)
-
-![Ethereum_Sentiment](Images/ethereum_sentiment.png)
+![Bitcoin_Sentiment](Images/bitcoin_sentiment.png) ![Ethereum_Sentiment](Images/ethereum_sentiment.png)
 
 NLTK’s sentiment analyzer found that, on average, Bitcoin article texts scores 
 were slightly more positive and more negative, but had slightly lower neutral 
